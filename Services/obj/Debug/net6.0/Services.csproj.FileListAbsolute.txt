@@ -1,0 +1,17 @@
+D:\Learning\ASP.NET\MockWebApi\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+D:\Learning\ASP.NET\MockWebApi\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\ASP.NET\MockWebApi\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+D:\Learning\ASP.NET\MockWebApi\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+D:\Learning\ASP.NET\MockWebApi\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+D:\Learning\ASP.NET\MockWebApi\Services\bin\Debug\net6.0\Services.deps.json
+D:\Learning\ASP.NET\MockWebApi\Services\bin\Debug\net6.0\Services.dll
+D:\Learning\ASP.NET\MockWebApi\Services\bin\Debug\net6.0\Services.pdb
+D:\Learning\ASP.NET\MockWebApi\Services\bin\Debug\net6.0\Domain.dll
+D:\Learning\ASP.NET\MockWebApi\Services\bin\Debug\net6.0\Repository.dll
+D:\Learning\ASP.NET\MockWebApi\Services\bin\Debug\net6.0\Domain.pdb
+D:\Learning\ASP.NET\MockWebApi\Services\bin\Debug\net6.0\Repository.pdb
+D:\Learning\ASP.NET\MockWebApi\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+D:\Learning\ASP.NET\MockWebApi\Services\obj\Debug\net6.0\Services.dll
+D:\Learning\ASP.NET\MockWebApi\Services\obj\Debug\net6.0\refint\Services.dll
+D:\Learning\ASP.NET\MockWebApi\Services\obj\Debug\net6.0\Services.pdb
+D:\Learning\ASP.NET\MockWebApi\Services\obj\Debug\net6.0\ref\Services.dll
