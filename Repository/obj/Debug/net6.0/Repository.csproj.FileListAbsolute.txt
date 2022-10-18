@@ -1,0 +1,15 @@
+D:\Learning\ASP.NET\MockWebApi\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+D:\Learning\ASP.NET\MockWebApi\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\ASP.NET\MockWebApi\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+D:\Learning\ASP.NET\MockWebApi\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+D:\Learning\ASP.NET\MockWebApi\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+D:\Learning\ASP.NET\MockWebApi\Repository\bin\Debug\net6.0\Repository.deps.json
+D:\Learning\ASP.NET\MockWebApi\Repository\bin\Debug\net6.0\Repository.dll
+D:\Learning\ASP.NET\MockWebApi\Repository\bin\Debug\net6.0\Repository.pdb
+D:\Learning\ASP.NET\MockWebApi\Repository\bin\Debug\net6.0\Domain.dll
+D:\Learning\ASP.NET\MockWebApi\Repository\bin\Debug\net6.0\Domain.pdb
+D:\Learning\ASP.NET\MockWebApi\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+D:\Learning\ASP.NET\MockWebApi\Repository\obj\Debug\net6.0\Repository.dll
+D:\Learning\ASP.NET\MockWebApi\Repository\obj\Debug\net6.0\refint\Repository.dll
+D:\Learning\ASP.NET\MockWebApi\Repository\obj\Debug\net6.0\Repository.pdb
+D:\Learning\ASP.NET\MockWebApi\Repository\obj\Debug\net6.0\ref\Repository.dll
